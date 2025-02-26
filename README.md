@@ -21,12 +21,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://giodosvani.github.io/qr-code-component-frontendmentor)
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-uoBJM_A-ip)
+- Live Site URL: [Click Here](https://giodosvani.github.io/qr-code-component-frontendmentor/)
 
 ## My process
 
-  -- To make the project the closer possible to the reference, i started understanding the HTML part, organizing what should be, and where it should be. It's a short challenge, so i didn't get too long to do it. After making sure the HTML document where done, i get to CSS file, and started from the Bigger and most obvious problems to the minor ones.
+  -- To make the project the closier possible to the reference, i started understanding the HTML part, organizing what should be, and where it should be. It's a short challenge, so i didn't get too long to do it. After making sure the HTML document where done, i get to CSS file, and started from the Bigger and most obvious problems to the minor ones.
   -- I needed: A big white card, centralized with a image, a title and some text. Using FlexBox it is really easy to make it responsible, so when i leave the "mobile" size on the browser, it worked automatically to bigger screens.
 
 ### Built with
